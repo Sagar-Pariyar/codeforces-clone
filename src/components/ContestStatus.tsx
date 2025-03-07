@@ -23,7 +23,97 @@ export function ContestStatus() {
       timeMs: '79 ms',
       memory: '100 KB'
     },
-    // Add more entries as needed
+    {
+      id: '308967808',
+      time: '00:06:12',
+      who: 'tourist',
+      problem: 'A - Magical Array',
+      lang: 'C++17 (GCC 9.3)',
+      verdict: '+1.0points',
+      timeMs: '45 ms',
+      memory: '128 KB'
+    },
+    {
+      id: '308967809',
+      time: '00:06:30',
+      who: 'egor',
+      problem: 'C - Puzzle Pieces',
+      lang: 'Python 3.8',
+      verdict: '+0.5points',
+      timeMs: '120 ms',
+      memory: '256 KB'
+    },
+    {
+      id: '308967810',
+      time: '00:07:05',
+      who: 'rafi',
+      problem: 'D - Dynamic Programming',
+      lang: 'Java 11',
+      verdict: '+0.5points',
+      timeMs: '150 ms',
+      memory: '512 KB'
+    },
+    {
+      id: '308967811',
+      time: '00:07:45',
+      who: 'sasha',
+      problem: 'E - Enigma',
+      lang: 'C++14 (GCC 8.1)',
+      verdict: '+1.0points',
+      timeMs: '90 ms',
+      memory: '200 KB'
+    },
+    {
+      id: '308967812',
+      time: '00:08:10',
+      who: 'maxwell',
+      problem: 'F - Fibonacci Numbers',
+      lang: 'C++17 (GCC 9.3)',
+      verdict: '+0.5points',
+      timeMs: '110 ms',
+      memory: '320 KB'
+    },
+    {
+      id: '308967813',
+      time: '00:08:45',
+      who: 'anna',
+      problem: 'G - Graph Theory',
+      lang: 'Python 3.9',
+      verdict: '+1.0points',
+      timeMs: '180 ms',
+      memory: '400 KB'
+    },
+    {
+      id: '308967814',
+      time: '00:09:30',
+      who: 'kostya',
+      problem: 'H - Heuristics',
+      lang: 'Java 8',
+      verdict: '+0.5points',
+      timeMs: '200 ms',
+      memory: '600 KB'
+    },
+    {
+      id: '308967815',
+      time: '00:10:00',
+      who: 'nina',
+      problem: 'I - Intersection',
+      lang: 'C++23 (Clang 14.0)',
+      verdict: '+0.5points',
+      timeMs: '80 ms',
+      memory: '150 KB'
+    },
+    {
+      id: '308967816',
+      time: '00:10:45',
+      who: 'zeta',
+      problem: 'J - Jumping Game',
+      lang: 'C++20 (GCC 11)',
+      verdict: '+1.0points',
+      timeMs: '70 ms',
+      memory: '90 KB'
+    }
+  
   ];
 
   return (

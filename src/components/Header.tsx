@@ -1,8 +1,6 @@
 import React from 'react';
-import { Globe, Trophy, Book, Calendar, HelpCircle } from 'lucide-react';
 import { Link } from './Link';
 import { Logo } from './Logo';
-import { Navbar } from './Navbar';
 
 export function Header() {
   return (
@@ -28,7 +26,7 @@ export function Header() {
           </div>
         </div>
       </div>
-      <Navbar />
+      {/* Removed Navbar from Header */}
     </header>
   );
 }
